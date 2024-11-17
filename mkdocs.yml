@@ -1,0 +1,10 @@
+site_name: Ace Roleplay
+site_url: https://example.com/
+extra_css: [extra.css]
+theme:  
+  name: material
+  locale: en
+  logo: https://cdn.discordapp.com/attachments/1046078030239510550/1307818288457449502/Logo_Wit_.png?ex=673bb032&is=673a5eb2&hm=9e3d8b5d2452182a4a5c704c34d17d294d815b7bbbada10ead952abeea735057&
+  palette:
+    scheme: slate
+

@@ -30,6 +30,7 @@ Het gebruik maken van exploits wordt niet geaccepteerd, mocht jij er één of me
     * Emote bugs/glitches
     * Dupen van items
     * Cancelen van animaties
+    * Verwerken door een muur heen
 
 ### Artikel 1.3: Alternatieve account(s)
 Het is verboden om het geld van een alternatief account van jou en/of vrienden aan jezelf te geven. 

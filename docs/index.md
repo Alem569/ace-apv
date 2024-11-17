@@ -1,6 +1,6 @@
 ## Artikel 1: Account en gebruik
 
-### Artikel 1.1: Cheats/Externe Software
+### Artikel 1.1: Cheats & Externe Software
 1. Het gebruik/bezitten van software/hulpmiddel/cheats om profit te krijgen is niet toegestaan.
 
 2.  Enkele voorbeelden hiervan zijn, maar niet beperkt tot:

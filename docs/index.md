@@ -437,7 +437,7 @@ Het is niet toegestaan om slechte tickets te maken.
     * Een stafflid mag een refund afkeuren als de partij die de refund maakt in eigen clip de APV overtreed.
     * Een stafflid heeft altijd het laatste woord ondanks wat er in de APV staat, omdat elke situatie anders is.
 
-Ben je van mening dat je ticket niet eerlijk is behandeld kan je een staffklacht. Pas wel op dat het onterecht maken van staffklachten ook bestraft kan worden.
+Ben je van mening dat je ticket niet eerlijk is behandeld kan je een staffklacht maken. Pas wel op dat het onterecht maken van staffklachten ook bestraft kan worden.
 
 ### Artikel 8.3: Staff abuse
 Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of dergelijke. 

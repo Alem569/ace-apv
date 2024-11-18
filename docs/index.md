@@ -9,25 +9,25 @@
 - Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
 **A3 - Strafbepaling**
-*De straffen zijn onderverdeeld in acht categorieën:*
 
-Categorie 1: Een waarschuwing
-Categorie 2: Een ban van maximaal 1 dag
-Categorie 3: Een ban van maximaal 2 dagen
-Categorie 4: Een ban van maximaal 3 dagen
-Categorie 5: Een ban van maximaal 1 week
-Categorie 6: Een ban van maximaal 1 maand
-Categorie 7: Permanente ban
-Categorie 8: Account wipe 
-Categorie 9: Account wipe + Permanente Ban
+1. *De straffen zijn onderverdeeld in acht categorieën:*
+    * Categorie 1: Een waarschuwing
+    * Categorie 2: Een ban van maximaal 1 dag
+    * Categorie 3: Een ban van maximaal 2 dagen
+    * Categorie 4: Een ban van maximaal 3 dagen
+    * Categorie 5: Een ban van maximaal 1 week
+    * Categorie 6: Een ban van maximaal 1 maand
+    * Categorie 7: Permanente ban
+    * Categorie 8: Account wipe
+    * Categorie 9: Account wipe + Permanente Ban
 
-1. De algemene regels die wij handhaven zijn:
-   * De straffen van categorie 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
-   * Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
-   * Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-   * Het omzeilen van een straf zal resulteren in een permanente ban.
-   * Bans worden uitgedeeld op basis van GTA licencie, Discord ID en verdere licencies die gelinkt staan aan het account waarop de speler gespeeld heeft. Dit geldt als zodanig voor alle gebruikers van deze kenmerken.
-   * Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
+2. De algemene regels die wij handhaven zijn:
+    * De straffen van categorie 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+    * Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+    * Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+    * Het omzeilen van een straf zal resulteren in een permanente ban.
+    * Bans worden uitgedeeld op basis van GTA licencie, Discord ID en verdere licencies die gelinkt staan aan het account waarop de speler gespeeld heeft. Dit geldt als zodanig voor alle gebruikers van deze kenmerken.
+    * Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 
 ## Artikel 1: Account en gebruik
 

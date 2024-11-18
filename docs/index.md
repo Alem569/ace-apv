@@ -1,3 +1,34 @@
+# Algemene Bepalingen
+**A1 - Reikwijdte**
+- Het Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad van Ace Roleplay.
+- Het APV biedt een richtlijn voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+
+**A2 - Geldigheid**
+- Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+- Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+- Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
+
+**A3 - Strafbepaling**
+*De straffen zijn onderverdeeld in acht categorieën:*
+
+Categorie 1: Een waarschuwing
+Categorie 2: Een ban van maximaal 1 dag
+Categorie 3: Een ban van maximaal 2 dagen
+Categorie 4: Een ban van maximaal 3 dagen
+Categorie 5: Een ban van maximaal 1 week
+Categorie 6: Een ban van maximaal 1 maand
+Categorie 7: Permanente ban
+Categorie 8: Account wipe 
+Categorie 9: Account wipe + Permanente Ban
+
+1. De algemene regels die wij handhaven zijn:
+   * De straffen van categorie 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+   * Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+   * Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+   * Het omzeilen van een straf zal resulteren in een permanente ban.
+   * Bans worden uitgedeeld op basis van GTA licencie, Discord ID en verdere licencies die gelinkt staan aan het account waarop de speler gespeeld heeft. Dit geldt als zodanig voor alle gebruikers van deze kenmerken.
+   * Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
+
 ## Artikel 1: Account en gebruik
 
 ### Artikel 1.1: Cheats & Externe Software
@@ -150,6 +181,14 @@ Het provoceren van politieagenten is ten strengste verboden.
     * Het is niet toegestaan om opzettelijk de aandacht te trekken van politieagenten of van hun werk proberen te houden zonder goede aanleiding.
     * Als de politie je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
     * Je bemoeien met roleplay-scenario’s met de intentie om deze te verstoren, is niet toegestaan.
+
+### Artikel 2.8 New Life Rule
+
+1. Als jouw karakter is komen te overlijden, wordt er verwacht dat jij de volgende voorbeelden bent vergeten na jou dood:
+    * Locaties, 
+    * Personen, 
+    * Situaties en/of aanleidingen.
+2. In het kader van lid 1 is het niet toegestaan om informatie te gebruiken die je hebt ontvangen van bijvoorbeeld vrienden na jouw dood.
 
 ## Artikel 3: Voertuig gebruik
 
@@ -376,6 +415,14 @@ Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen t
 
 Voor de afhandeling van staffzaken mag elke manier van videomateriaal gebruikt worden en zijn de bovenstaande voorwaarden dus niet van toepassing.
 
+### Artikel 6.3: Wisselen van baan.
+
+1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
+     * Overheidsbaan ➔	Overheidsbaan ➔	7 kalenderdagen
+     * Crimineel  	➔ Overheidsbaan ➔	7 kalenderdagen
+2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
+3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
+
 ## Artikel 7: Basis
 
 ### Artikel 7.1: Microfoon
@@ -395,6 +442,21 @@ Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenari
     * Het is je eigen verantwoordelijkheid om ervoor te zorgen dat jouw armen niet door jouw t-shirt heenkomen.
     * Het is niet toegestaan om kleding van overheidsdiensten te dragen, als je daar niet werkt.
     * Indien je enkel in je ondergoed over straat loopt, kan de politie je controleren.
+
+### Artikel 7.3: Content Creator
+Het is voor iedereen toegestaan om te streamen op Ace Roleplay
+
+1. Er zijn wel enkele regels aan verbonden bijvoorbeeld:
+    * Als content creator fungeer je als visitekaartje voor Ace Roleplay. Bij eventuele incidenten dient dit gemeld te worden aan het staff team.
+       * Aangezien je als streamer veel zichtbaar bent, kan er strenger worden opgetreden tegen streamers vanwege het beschikbare beeldmateriaal.
+    * Het tonen van deepweb kanalen/telefoonnummers andere vertrouwelijke informatie van telefoons is niet toegestaan.
+    * Overtredingen/misdragingen zoals RDM, VDM en of heftige vorm van FailRP zullen tijdens een livestream direct bestraft worden.
+       * Lichtere overtredingen/misdragingen na een roleplay gegeven.
+    * Ace Roleplay is een content vriendelijke stad en hebben bijna geen locaties die niet gezien mogen laten worden behalve:
+Drugsloodsen en Drugs verkoop start locaties.
+    * Gelieve van te voren te melden als je live gaat of een groot scenario gaat doen, zodat wij er rekening mee kunnen houden.
+    * Het aanhebben van streamermodus op je telefoon.
+         
 
 ## Artikel 8: Staff & reports
 
@@ -452,6 +514,8 @@ Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of de
 
 ## Artikel 9: Gangs
 Coming soon ♠
+
+
 
 
 

@@ -1,4 +1,4 @@
-# Algemene Bepalingen
+# APV
 **A1 - Reikwijdte**
 - Het Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad van Ace Roleplay.
 - Het APV biedt een richtlijn voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
@@ -9,7 +9,6 @@
 - Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
 **A3 - Strafbepaling**
-
 1. *De straffen zijn onderverdeeld in acht categorieën:*
     * Categorie 1: Een waarschuwing
     * Categorie 2: Een ban van maximaal 1 dag

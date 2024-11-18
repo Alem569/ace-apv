@@ -111,6 +111,7 @@ Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en respec
 
 1. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
     * Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt. Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconden om je spullen te droppen.
+          *   Met een slagwapen zul je binnen 1 meter gericht zul je ook alles binnen 10 seconde moeten droppen. 
     * Terwijl je onder schot staat is het niet de bedoeling dat je deze persoon benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
     * Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
     * Het bespringen in je eentje en/of meerdere personen op een slagwapen of hoger.
@@ -159,7 +160,7 @@ Het gebruik van voertuigen heeft een paar regels.
 
 1. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
     * Met meer dan 230 km/u over Blokkenpark of dergelijke rijden zonder goede aanleiding.
-    * Je dient een auto te pitten en niet total loss te beuken, je speelt dus geen Rocket League.
+    * Je dient een auto te pitten en niet total loss te beuken, je speelt dus geen bots autos.
     * Het stelen van overheidsvoertuigen is verboden, tenzij het je laatste uitweg is in een scenario.
 
 Een stafflid behoudt zijn recht om te bepalen wat wel en niet door de beugel kan.
@@ -237,6 +238,7 @@ Het is niet toegestaan om zonder goede aanleiding iemand van het leven te berove
     * Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld zingen.
     * Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit is GEEN RDM.
     * Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
+    * Als je iemand heb vermoord dan dien je ook de reden te vertellen.
 
 ### Artikel 5.2: Wapengebruik
 Het is niet toegestaan om een lage kwaliteit roleplay neer te zetten met een wapen. 
@@ -404,21 +406,38 @@ Het is niet toegestaan om slechte reports te maken.
 1. Enkele voorbeelden van een slechte report:
     * Het maken van reports zonder duidelijke uitleg: “Staff help”, “Kom RDM”.
     * Reports omtrent Metagaming, Combatloggen, RDM & VDM worden niet behandeld in game. Hier zul je een ticket voor moeten aanmaken in de support discord.
+    * Een staff kan je report sluiten zonder pardon als het niet voldoet aan de eisen of als het is opgelost.
 
 ### Artikel 8.2: Tickets
 Het is niet toegestaan om slechte tickets te maken.
 
 1. Enkele voorbeelden van een slechte ticket:
     * Het maken van een onnodige unban ticket is niet toegestaan.
+    * Het keer op keer in discussie gaan.
     * Het aanleveren van half bewijs/geknipte beelden.
     * Het openen van een refund voor spullen onder de 10k.
     * Het aanleveren van beeldmateriaal na 48 uur na het scenario. (Dit is om te voorkomen dat we spullen na een te lange tijd moeten weghalen bij spelers en het lange zoeken in de logs).
     * Het is ten alle tijden verboden om te liegen tegen staff, echter is informatie achterhouden ook verboden. 
     * Het is niet toegestaan meerdere tickets aan te maken over hetzelfde scenario, of om een second opinion aan te vragen over unban tickets of refund tickets. 
+
+2. Enkele voorbeelden van een goede ticket:
+    * Een ticket maken zodra een APV regel is overtreden.
+    * Je start geen discussies.
+    * Je levert in een keer aan alle informatie/beeldmateriaal aan.
+    * Je accepteert wanneer je ticket niet jou kant opvalt.
+    * Je vult netjes de template in.
+    * Je blijft geduldig tot staff je ticket behandeld.
+    * Je blijft respectvol tegen over de staff.
+  
+3. Enkele voorbeelden die belangrijk zijn:
     * In geen enkel geval is het toegestaan om eigenaren en/of staff een dm te sturen over een staffzaak. 
     * Een stafflid mag ten alle tijden afwijken van de richtlijnen van de sancties in het APV indien het nodig is.
     * Een stafflid mag een ticket afkeuren/sluiten als er te weinig informatie is gegeven.
     * Een stafflid mag een ticket afkeuren/sluiten als er niet aan de template is gehouden.
+    * Een stafflid mag een refund afkeuren als de partij die de refund maakt in eigen clip de APV overtreed.
+    * Een stafflid heeft altijd het laatste woord ondanks wat er in de APV staat, omdat elke situatie anders is.
+
+Ben je van mening dat je ticket niet eerlijk is behandeld kan je een staffklacht. Pas wel op dat het onterecht maken van staffklachten ook bestraft kan worden.
 
 ### Artikel 8.3: Staff abuse
 Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of dergelijke. 

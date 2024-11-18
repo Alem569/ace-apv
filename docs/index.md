@@ -9,6 +9,7 @@
 - Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
 **A3 - Strafbepaling**
+
 1. *De straffen zijn onderverdeeld in acht categorieën:*
     * Categorie 1: Een waarschuwing
     * Categorie 2: Een ban van maximaal 1 dag

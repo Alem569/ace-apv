@@ -52,7 +52,7 @@
 6. Indien blijkt dat personen op de hoogte waren van cheaten binnen een bepaalde groep, behouden wij ons het recht voor om iedereen die betrokken was als medeplichtig te beschouwen en een passende sanctie op te leggen.
 7. Ace Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
 
-Straf ➔  Categorie 7: permanente ban
+Straf ➔  Categorie 7: Permanente ban.
 
 ### Artikel 1.2: Exploits/bugs
 Het gebruik maken van exploits wordt niet geaccepteerd, mocht jij er één of meerdere vinden? Meld ze dan in een ticket! Als je ze niet meldt en wij komen er achter, kan je hiervoor afhankelijk van de ernst van de zaak een sanctie opgelegd krijgen.
@@ -63,6 +63,8 @@ Het gebruik maken van exploits wordt niet geaccepteerd, mocht jij er één of me
     * Cancelen van animaties
     * Verwerken door een muur heen
 
+Straf ➔  Categorie 8: Account wipe.
+
 ### Artikel 1.3: Alternatieve account(s)
 Het is verboden om het geld van een alternatief account van jou en/of vrienden aan jezelf te geven. 
 
@@ -71,6 +73,8 @@ Het is verboden om het geld van een alternatief account van jou en/of vrienden a
     * Een nieuw account aanmaken om een ban te omzeilen.
     * Een nieuw account aanmaken om opnieuw te beginnen. Hiervoor dient een ticket aangemaakt te worden.
     * Accountsharing is niet toegestaan.
+  
+Straf ➔  Categorie 8: Account wipe.
 
 ### Artikel 1.4: Weggeven van goederen als je stopt met de stad
 Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Ace of een lange pauze neemt.
@@ -78,9 +82,13 @@ Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met
 1. Enkele voorbeelden hiervan zijn maar niet beperkt tot
     * Het geven en aannemen van goederen van iemand die stopt.
     * Het geven en aannemen van geld van een random iemand.
+  
+Straf ➔  Categorie 8: Account wipe.
 
 ### Artikel 1.5: IRL Trading
 Het verhandelen van artikelen, diensten, geld en accounts voor echt geld is strikt verboden.
+
+Straf ➔  Categorie 8: Account wipe.
 
 ### Artikel 1.6: Graphics pack
 Het gebruik van graphic packs en beeldscherminstellingen die een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden zijn niet toegestaan. 
@@ -91,6 +99,8 @@ Het gebruik van graphic packs en beeldscherminstellingen die een oneerlijk voord
         * p_NVE_Vegetation.rpf
     * Het aanpassen van je graphics, zodat je geen dag en nacht ziet.
     * Gebruik maken van graphics packs, modificaties en/of instellingen van het beeldscherm met een resolutie anders dan de standaard (automatische) resolutie van je beeldscherm, zijn verboden.
+  
+Straf ➔  Categorie 7: Permanente ban
 
 ## Artikel 2: Roleplay
 
@@ -107,7 +117,7 @@ Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te 
     * Het checken/stelen van kofferbakken/dashboards van auto’s zonder geldige roleplay, ook niet op illegale locaties.
     * Misbruik maken van de emote-functionaliteit.
 
-Straf ➔ Categorie 2: een ban van maximaal 1 dag
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 2.2: Powergaming
 Het is niet toegestaan om de roleplay opzettelijk op een oneerlijke of onrealistische manier te manipuleren, zoals door de verhaallijn onnatuurlijk te veranderen, onrealistische dwang uit te oefenen of onrealistische opdrachten op te dwingen aan de andere partij.
@@ -121,7 +131,7 @@ Het is niet toegestaan om de roleplay opzettelijk op een oneerlijke of onrealist
     * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto duidelijk gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt, hiervoor kunnen wij als staff om bewijs vragen.
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items, zoals wapens, af te nemen en af te geven aan jou of iemand anders.
 
-Straf ➔ Categorie 2: een ban van maximaal 1 dag
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 2.3: Metagamen
 Het is niet toegestaan om informatie te gebruiken die is verkregen buiten jouw in-game character om.
@@ -134,6 +144,8 @@ Het is niet toegestaan om informatie te gebruiken die is verkregen buiten jouw i
     * Herkennen van een stem van een content creator.
 
 Het is niet toegestaan een eigen server te maken voor je bedrijf/gang, zonder toestemming van management.
+
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
 
 ### Artikel 2.4: NVOL (No Value of Life)
 Er wordt van jou verwacht dat je waarde hecht aan het leven van jouw karakter en dit respecteert, zoals je dat in het echte leven ook doet.
@@ -160,6 +172,8 @@ Er wordt van jou verwacht dat je waarde hecht aan het leven van jouw karakter en
 
 Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
+
 ### Artikel 2.5: Karakter breken/OOC
 Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game. 
 
@@ -167,12 +181,16 @@ Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken
     * Combatlog, report, staff, dsync, vdm, etc.
     * Staffleden benaderen die in dienst zijn en bezig zijn met het afhandelen van een staffzaak.
     * Benoemen dat iemand een artikel van de APV heeft overtreden. Hiervoor dient een report of een ticket aangemaakt te worden, zorg dat je hiervoor over bewijsmateriaal beschikt.
+  
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
       
 ### Artikel 2.6: Impersonatie van overheidsmedewerkers
 Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 
 1. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
 2. Er zijn uitzonderingen op deze regel door een uitgebreid plan aan te leveren bij de onderwereld coördinatoren.
+
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
 
 ### Artikel 2.7: Copbaiten
 Het provoceren van politieagenten is ten strengste verboden.
@@ -181,6 +199,8 @@ Het provoceren van politieagenten is ten strengste verboden.
     * Het is niet toegestaan om opzettelijk de aandacht te trekken van politieagenten of van hun werk proberen te houden zonder goede aanleiding.
     * Als de politie je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
     * Je bemoeien met roleplay-scenario’s met de intentie om deze te verstoren, is niet toegestaan.
+  
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
 
 ### Artikel 2.8 New Life Rule
 
@@ -189,6 +209,8 @@ Het provoceren van politieagenten is ten strengste verboden.
     * Personen, 
     * Situaties en/of aanleidingen.
 2. In het kader van lid 1 is het niet toegestaan om informatie te gebruiken die je hebt ontvangen van bijvoorbeeld vrienden na jouw dood.
+
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ## Artikel 3: Voertuig gebruik
 
@@ -202,6 +224,8 @@ Het gebruik van voertuigen heeft een paar regels.
 
 Een stafflid behoudt zijn recht om te bepalen wat wel en niet door de beugel kan.
 
+Straf ➔ Categorie 3: Een ban van maximaal 1 dagen
+
 ### Artikel 3.2: Vehicle Deathmatch (VDM)
 Je voertuig gebruiken als een wapen is ten allen tijde niet toegestaan.
 
@@ -209,6 +233,7 @@ Je voertuig gebruiken als een wapen is ten allen tijde niet toegestaan.
     * Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Zelfs als je iemand niet volledig doodrijdt, maar wel aanrijdt, wordt dit alsnog gezien als VDM.
     * Indien iemand moedwillig wordt aangereden met een snelheid hoger dan 40 km/u wordt dit beschouwt als poging tot doodslag of poging tot moord afhankelijk van de situatie.
 
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 3.3: GTA Style Driving
 Hieronder wordt verstaan het onrealistisch rijden met je voertuig. 
@@ -219,6 +244,8 @@ Hieronder wordt verstaan het onrealistisch rijden met je voertuig.
     * Het rammen/onnodig beuken van andere voertuigen zonder reden.
     * Het pitten van een motor is enkel toegestaan wanneer er geschoten wordt vanaf het voertuig, dit is alleen toegestaan door een hogere categorie voertuig.
         * Ook mag dit niet het leven in gevaar brengen van de personen op de motor, en dit wordt uitgevoerd onder de snelheid van 60 km/h.
+     
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
     
 ### Artikel 3.4: Pitten
 Het pitten van voertuigen heeft een paar regels. 
@@ -240,6 +267,8 @@ Het pitten van voertuigen heeft een paar regels.
 
 Het correct uitvoeren van een pit houdt in dat je de achterkant van het andere voertuig tikt om hem uit balans te brengen en zo de overhand in het scenario te krijgen. Hierbij mag je geen onnodig geweld of overmatig gebruik van het voertuig toepassen. Een stafflid behoudt zijn recht om te bepalen wat wel en niet getolereerd word.
 
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
+
 ## Artikel 4: Taalgebruik
 
 ### Artikel 4.1: Taalgebruik
@@ -253,6 +282,8 @@ Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen.
     * Racistische en/of seksistische opmerkingen;
     * Iemand persoonlijk beledigen en/of zijn of haar familie erbij betrekken.
     * Iemand persoonlijk beledigen door middel van (hedendaagse) ziektes of ziekte gerelateerde scheldwoorden.
+  
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 4.2: Haat veroorzakend/toxic gedrag
 Het is niet de bedoeling dat je toxic gedrag vertoond in scenario’s of tegen personen bedreigen en intimideren wordt ook niet toegestaan. 
@@ -263,6 +294,8 @@ Het is niet de bedoeling dat je toxic gedrag vertoond in scenario’s of tegen p
     * Het continu lastigvallen of provoceren van een bepaalde groep/individu zonder roleplay doeleinde.
 
 Een stafflid behoudt zijn recht om te bepalen wat wel en niet getolereerd wordt.
+
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
 
 ## Artikel 5: Onderwereld
 
@@ -276,6 +309,8 @@ Het is niet toegestaan om zonder goede aanleiding iemand van het leven te berove
     * Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij zelf ervoor kiest te blijven achtervolgen dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit valt niet onder RDM.
     * Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
     * Als je iemand hebt vermoord dan dien je in staat te zijn een geldige reden te kunnen aantonen.
+  
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
 
 ### Artikel 5.2: Wapengebruik
 Het is niet toegestaan om een lage kwaliteit roleplay neer te zetten met een wapen. 
@@ -290,6 +325,8 @@ Het is niet toegestaan om een lage kwaliteit roleplay neer te zetten met een wap
 Bij misbruik van een wapen kan een stafflid besluiten het wapen in te nemen.
 
 Deze regel is bedoeld om mensen te beschermen die niet betrokken zijn bij jouw scenario en om te voorkomen dat er zonder geldige reden wordt geschoten of gestoken. Wapens dienen als middel om een roleplay-scenario te starten, versterken of ondersteunen. Wanneer wapens voor andere doeleinden worden gebruikt, kan dit artikel worden toegepast. Gebruik wapens dus op een respectvolle en verantwoordelijke manier.
+
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 5.3: Rippen
 Het beroven heeft een paar regels waar je je aan moet houden.
@@ -315,6 +352,8 @@ Het beroven heeft een paar regels waar je je aan moet houden.
     * Voertuigen in elke vorm.
     * Onder dwang iemand zijn huis betreden en leegroven.
     * De inhoud van kluizen van verified of officiële gangs.
+  
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 5.4: Scammen 
 Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
@@ -323,6 +362,8 @@ Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrok
     * Het scammen van locaties is niet toegestaan.
     * Het scammen van nieuwe burgers is niet toegestaan.
     * Het scammen van witwas is toegestaan, mits dit gedaan wordt door een derde partij.
+  
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 5.5: Combatlog
 Het combat loggen in de stad mag niet.
@@ -338,6 +379,8 @@ Het combat loggen in de stad mag niet.
         * Het betreden van de red-zone of campen rondom de witwas.
         * Het deelnemen aan een scenario.
 
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
+
 ### Artikel 5.6: Combatstash
 Het uitvoeren van criminele activiteiten heeft ook een aantal regels.
 
@@ -349,6 +392,8 @@ Het uitvoeren van criminele activiteiten heeft ook een aantal regels.
 
 De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
 
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
+
 ### Artikel 5.7: Overvallen
 Het doen van overvallen heeft wat regels.
 
@@ -358,6 +403,8 @@ Het doen van overvallen heeft wat regels.
         * Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie & DSI.
         * Setups mogen gecounterd worden door rivaliserende gangs/criminelen.
         * De enige uitzondering met een achtervolging is een helikopter.
+     
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ### Artikel 5.8: Witwassen & Drugs locaties.
 Het rippen van illegale locaties brengt wat regels met zich mee, enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -383,6 +430,8 @@ Het rippen van illegale locaties brengt wat regels met zich mee, enkele voorbeel
     * Het campen of opwachten op/of rondom deze locatie, binnen een straal van 100m is verboden.
     * Hier zal je maar eens per uur mogen komen om te overvallen. Dit geldt voor je gehele groep(ering).
 
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
+
 ### Artikel 5.9: Overige Criminaliteit
 Er zijn ook overige regels waar je rekening mee moet houden.
 
@@ -393,6 +442,8 @@ Er zijn ook overige regels waar je rekening mee moet houden.
     * Je mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze worden niet meer gevolgd. De crimineel moet voordat de Politie op bureau komt wel kenbaar maken dat er een achtervolging gaande is, zodat ze niet per ongeluk aankoppelen omdat ze je niet HB hebben zien betreden.
     * Het verstoren van scenario’s is ook niet toegestaan.
     * Het toepassen van stemherkenning is niet toegestaan als iemand een masker op heeft. Tenzij je hem kent van zijn kleding/auto etc.
+
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 
 ## Artikel 6: Bovenwereld
 
@@ -412,6 +463,8 @@ Elke overheidsdienst heeft hun eigen basisregels, is er iets wat echt niet door 
 
 Er zijn buiten dit nog meerdere dingen die onder corruptie vallen. Wanneer je jouw diensten gebruikt in het voordeel van een onderwereld speler is dit ten strengste verboden en zal dit leiden tot per direct ontslag en een passende sanctie.
 
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
+
 ### Artikel 6.2: Bodycams
 Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen toegestaan indien deze aan de volgende voorwaarden voldoen:
 1. Overheidsmedewerkers dienen een bodycam te dragen om het te kunnen gebruiken.
@@ -420,6 +473,8 @@ Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen t
 
 Voor de afhandeling van staffzaken mag elke manier van videomateriaal gebruikt worden en zijn de bovenstaande voorwaarden dus niet van toepassing.
 
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
+
 ### Artikel 6.3: Wisselen van baan.
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
@@ -427,6 +482,8 @@ Voor de afhandeling van staffzaken mag elke manier van videomateriaal gebruikt w
      * Crimineel  	➔ Overheidsbaan ➔	7 kalenderdagen
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
+
+Straf ➔ Categorie 4: Een ban van maximaal 3 dagen
 
 ## Artikel 7: Basis
 
@@ -438,6 +495,8 @@ Het is voor iedereen verplicht om een werkende en goed verstaanbare microfoon te
     * Het gebruik maken van soundpads.
     * Het veroorzaken van geluidshinder voor andere inwoners.
     * Het gebruik maken van onverstaanbare en hinderlijke voice changers.
+  
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
 
 ### Artikel 7.2: Outfit
 Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenarios. In het begin krijg je een menu waar je dit kan aanpassen. Mocht dat onverhoopt niet lukken wordt er verwacht dat jij naar een kledingwinkel gaat.
@@ -447,6 +506,8 @@ Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenari
     * Het is je eigen verantwoordelijkheid om ervoor te zorgen dat jouw armen niet door jouw t-shirt heenkomen.
     * Het is niet toegestaan om kleding van overheidsdiensten te dragen, als je daar niet werkt.
     * Indien je enkel in je ondergoed over straat loopt, kan de politie je controleren.
+
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
 
 ### Artikel 7.3: Content Creator
 Het is voor iedereen toegestaan om te streamen op Ace Roleplay
@@ -461,7 +522,8 @@ Het is voor iedereen toegestaan om te streamen op Ace Roleplay
 Drugsloodsen en Drugs verkoop start locaties.
     * Gelieve van te voren te melden als je live gaat of een groot scenario gaat doen, zodat wij er rekening mee kunnen houden.
     * Het aanhebben van streamermodus op je telefoon.
-         
+    * 
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag         
 
 ## Artikel 8: Staff & reports
 
@@ -472,6 +534,8 @@ Het is niet toegestaan om slechte reports te maken.
     * Het maken van reports zonder duidelijke uitleg: “Staff help”, “Kom RDM”.
     * Reports omtrent Metagaming, Combatloggen, RDM & VDM worden niet behandeld in via reports. Hier zul je een ticket voor moeten aanmaken in de support discord..
     * Een staff kan je report sluiten zonder pardon als het niet voldoet aan de eisen of als het is opgelost.
+  
+Straf ➔ Categorie 2: Een ban van maximaal 1 dag
 
 ### Artikel 8.2: Tickets
 Het is niet toegestaan om slechte tickets te maken.
@@ -504,6 +568,8 @@ Het is niet toegestaan om slechte tickets te maken.
 
 Ben je van mening dat je ticket niet eerlijk is behandeld kan je een staffklacht maken. Pas wel op dat het onterecht maken van staffklachten ook bestraft kan worden.
 
+Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
+
 ### Artikel 8.3: Staff abuse
 Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of dergelijke. 
 
@@ -516,6 +582,8 @@ Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of de
     * Het unbannen van mensen die dit niet horen te krijgen.
     * Het unbannen van mensen waar hij geen toestemming voor heeft. (Bijvoorbeeld: cheaters, anticheat, exploits, etc.)
     * Scenario’s behandelen waar zij zelf onderdeel van waren.
+  
+Straf ➔ Categorie 9: Account wipe + Permanente Ban
 
 ## Artikel 9: Gangs
 Coming soon ♠

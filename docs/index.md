@@ -333,7 +333,6 @@ Het beroven heeft een paar regels waar je je aan moet houden.
 
 1. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
     * Indien je iemand een illegale activiteit ziet verichten heb je 30 minuten om daarop te handelen.
-       *  Hierbij zou je de persoon vol  
     * Wanneer je met meerdere mensen gaat beroven, mag je niet dezelfde personen herhaaldelijk beroven.
     * Iemand dwingen om zijn voertuig uit de garage te halen zonder een scenario aan te gaan, is niet toegestaan.
     * Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op de persoon richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.

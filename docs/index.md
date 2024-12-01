@@ -220,11 +220,11 @@ Binnen Ace gelden er ook regels over greenzones.
     * Het is niet toegestaan om een hostage in de mechanic te zoeken.
     * Je mag in een actief scenario niet vluchten naar een Greenzone.
     * Het toepassen van geweld binnen de Greenzones is niet toegestaan, hier zal streng gehandhaafd op worden.
-    * De volgende locaties behoren tot de Greenzone:
-       * Ace Mechanics
-       * Ziekenhuis
-       * Het politiebureau zal geen Greenzone zijn, maar het is toegestaan dat het politiekorps strenger optreedt wanneer er op of rondom het hoofdbureau geweld plaatsvindt.
-       * Alle startlocaties van UWV Jobs (geldt alleen voor spelers die de job uit willen voeren)
+    * De volgende locaties behoren tot de Greenzone: 
+        * Ace Mechanics
+        * Ziekenhuis
+        * Het politiebureau zal geen Greenzone zijn, maar het is toegestaan dat het politiekorps strenger optreedt wanneer er op of rondom het hoofdbureau geweld plaatsvindt.
+        * Alle startlocaties van UWV Jobs (geldt alleen voor spelers die de job uit willen voeren)
 
 ## Artikel 3: Voertuig gebruik
 

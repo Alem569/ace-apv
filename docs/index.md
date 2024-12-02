@@ -459,7 +459,7 @@ Er zijn ook overige regels waar je rekening mee moet houden.
     * Het gijzelen van een vriend of kennis voor een overval is niet toegestaan, dit moet een voor jou onbekende burger zijn.
     * Je mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze worden niet meer gevolgd. De crimineel moet voordat de Politie op bureau komt wel kenbaar maken dat er een achtervolging gaande is, zodat ze niet per ongeluk aankoppelen omdat ze je niet HB hebben zien betreden.
     * Het verstoren van scenario’s is ook niet toegestaan.
-    * Het toepassen van stemherkenning is niet toegestaan als iemand een masker op heeft. Tenzij je hem kent van zijn kleding/auto etc.
+    * Het toepassen van stemherkenning is niet toegestaan als iemand gezichtsbedekkende kleding of accessoires aan heeft. Tenzij je hem kent van zijn kleding/auto etc. 
 
 Straf ➔ Categorie 3: Een ban van maximaal 2 dagen
 

@@ -347,6 +347,9 @@ Het beroven heeft een paar regels waar je je aan moet houden.
 
 1. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
     * Indien je iemand een illegale activiteit ziet verichten heb je 30 minuten om daarop te handelen.
+    * Wanneer iemand bodyarmor, vuurwapenholster, gezichtsbedekkende kleding en/of accessoires aan heeft, mag diegene overvallen worden. 
+      * Uitzondering is als iemand gezichtsbedekkende kleding en/of accessoires draagt op een motor, dus mag je niet overvallen worden als je specifiek op een motor zit of rijd.
+      * Bovenstaande lid mag je niet in je voordeel gebruiken om ergens extra lang te staan en of hierdoor jezelf niet te kunnen laten rippen.
     * Wanneer je met meerdere mensen gaat beroven, mag je niet dezelfde personen herhaaldelijk beroven.
     * Iemand dwingen om zijn voertuig uit de garage te halen zonder een scenario aan te gaan, is niet toegestaan.
     * Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op de persoon richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.
@@ -354,8 +357,10 @@ Het beroven heeft een paar regels waar je je aan moet houden.
     * Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij politie mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
     * Het is verboden om ingenomen wapens proberen te rippen van agenten als die wapens niet zijn afgepakt van jouw groep/gang. Tenzij jij kan aantonen dat jij betrokken bent geweest in het scenario voordat de politie kwam aankoppelen.
     * Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden. (eigen risico)
+    * Het verstoren van een ambulance scenario wanneer persoon net omhoog is geholpen is niet toegestaan. De Ambulancier zal persoon eerst moeten helpen daarna mag je persoon rippen.
     * Indien beide partijen een mes hebben getrokken, kunnen ze elkaar niet rippen.
        * Dit geldt ook als er meerdere messen zijn getrokken.
+      
 
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
     * Geld wat op de bank staat.

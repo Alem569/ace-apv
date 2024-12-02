@@ -348,9 +348,8 @@ Het beroven heeft een paar regels waar je je aan moet houden.
 1. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
     * Indien je iemand een illegale activiteit ziet verichten heb je 30 minuten om daarop te handelen.
     * Wanneer iemand bodyarmor, vuurwapenholster, gezichtsbedekkende kleding en/of accessoires aan heeft, mag diegene overvallen worden. 
-      * Uitzondering is als iemand gezichtsbedekkende kleding en/of accessoires draagt op een motor, dus mag je niet overvallen worden als je specifiek op een motor zit of rijd.
-      * Bovenstaande lid mag je niet in je voordeel gebruiken om ergens extra lang te staan en of hierdoor jezelf niet te kunnen laten rippen.
-    * Wanneer je met meerdere mensen gaat beroven, mag je niet dezelfde personen herhaaldelijk beroven.
+       * Uitzondering is als iemand gezichtsbedekkende kleding en/of accessoires draagt op een motor, dus mag je niet overvallen worden als je specifiek op een motor zit of rijd.
+       * Bovenstaande lid mag je niet in je voordeel gebruiken om ergens extra lang te staan en of hierdoor jezelf niet te kunnen laten rippen.
     * Iemand dwingen om zijn voertuig uit de garage te halen zonder een scenario aan te gaan, is niet toegestaan.
     * Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op de persoon richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan.
     * Je mag drugsverkopers alleen overvallen als je hun fysieke handelingen ziet doen die hierbij horen.

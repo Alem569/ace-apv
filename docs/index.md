@@ -358,7 +358,7 @@ Het beroven heeft een paar regels waar je je aan moet houden.
     * Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden. (eigen risico)
     * Het verstoren van een ambulance scenario wanneer persoon net omhoog is geholpen is niet toegestaan. De Ambulancier zal persoon eerst moeten helpen daarna mag je persoon rippen.
     * Indien beide partijen een mes hebben getrokken, kunnen ze elkaar niet rippen.
-       * Dit geldt ook als er meerdere messen zijn getrokken.
+        * Dit geldt ook als er meerdere messen zijn getrokken.
     * Er mag geen derde partij betrokken zijn bij een ripdeal, scam, overval en/of gijzeling tenzij desbetreffende partijen hiervoor toestemming hebben gekregen.
       
 

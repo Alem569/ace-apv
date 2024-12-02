@@ -359,6 +359,7 @@ Het beroven heeft een paar regels waar je je aan moet houden.
     * Het verstoren van een ambulance scenario wanneer persoon net omhoog is geholpen is niet toegestaan. De Ambulancier zal persoon eerst moeten helpen daarna mag je persoon rippen.
     * Indien beide partijen een mes hebben getrokken, kunnen ze elkaar niet rippen.
        * Dit geldt ook als er meerdere messen zijn getrokken.
+    * Er mag geen derde partij betrokken zijn bij een ripdeal, scam, overval en/of gijzeling tenzij desbetreffende partijen hiervoor toestemming hebben gekregen.
       
 
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
